@@ -1,0 +1,684 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-03 13:23+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: simple-woo-reviews.php:78
+msgid ""
+"Requirements for plugin to work are minimum WP version 5.0, minimum PHP "
+"version 7.0 and minimum version of WC plugin installed and activated should "
+"be atleast 4.0!"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:38
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:52
+msgid "Settings"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:51
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:53
+#: admin/partials/class-simple-woo-reviews-posttype.php:86
+#: admin/partials/class-simple-woo-reviews-posttype.php:87
+#: admin/partials/class-simple-woo-reviews-posttype.php:98
+msgid "SWR Reviews"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:74
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:225
+msgid "Sync Woo Reviews"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:87
+msgid "Enable Upload Field"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:88
+msgid "Upload Field Type"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:89
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:295
+msgid "Enable Mailchimp"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:90
+msgid "Mailchimp List ID"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:91
+msgid "Mailchimp API Key"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:92
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:338
+msgid "Enable Photo Reviews"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:93
+msgid "Enable Lightbox"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:94
+msgid "Allowed Images Per Review"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:95
+msgid "Send Review Notification"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:96
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:397
+msgid "Delete Plugin Data"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:108
+msgid "Enable Google Captcha V2"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:109
+msgid "Google Captcha V2 Site Key"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:110
+msgid "Google Captcha V2 Secret Key"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:121
+msgid "Select Primary Color"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:122
+msgid "Select Heading Color"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:123
+msgid "Select Content Color"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:134
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:538
+msgid "Enable Popup Review"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:135
+msgid "Add Popup Title"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:136
+msgid "Show Review Popup"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:158
+msgid "SWR Reviews Lite Settings"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:159
+msgid "Showcase customers feedback in a new way!"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:166
+msgid "General"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:167
+msgid "Sync"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:168
+msgid "Captcha"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:169
+msgid "Design"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:170
+msgid "Popup Review"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:171
+msgid "Shortcodes"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:210
+msgid "Sync Options"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:211
+msgid "Sync all WC plugin product reviews by clicking the sync button."
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:227
+msgid ""
+"This action only need for one time - after you activate this plugin. After "
+"this all products reviews will be synced automatically. "
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:228
+msgid ""
+"Use this button if you think that plugin not shows all latest WC product "
+"reviews."
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:229
+msgid "CAUTION: this can take some time for syncing reviews data."
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:242
+msgid "General Settings"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:243
+msgid ""
+"Configure General Settings of the plugin as per your needs. You will find "
+"all general configuration settings of the plugin under this tab."
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:257
+msgid "Show Photo Field"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:260
+msgid ""
+"Enable picture upload field on WC registeration form. The option will be "
+"used in displaying customer profile images in reviews."
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:261
+msgid ""
+"If you uncheck this option no field will display on the registeration form."
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:276
+msgid "Photo Field Type"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:279
+msgid ""
+"Make the picture upload field required or optional on WC registeration form."
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:309
+msgid ""
+"You can get your Mailchimp List ID from the this <a href=\"https://mailchimp."
+"com/help/find-audience-id/\">link</a>"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:324
+msgid ""
+"You can get your Mailchimp API key from the this <a href=\"https://mailchimp."
+"com/help/about-api-keys//\">link</a>"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:352
+msgid ""
+"Set number of images allowed per single review. Minimum number of images "
+"allowed is 1 and maximum allowed limit can be set to 10. This option will "
+"only be applied on product pages."
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:362
+msgid "Enable Lightbox on Photo Reviews"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:365
+msgid ""
+"You can enable or disable Lightbox to prevent or show images in popup on "
+"product pages. This setting only works for product pages."
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:382
+msgid "Send Admin Review Notification"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:400
+msgid ""
+"Delete all plugin data upon uninstallation. This will delete all data when "
+"plugin uninstalled."
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:412
+msgid "Captcha Settings"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:413
+msgid ""
+"Configure Captcha Settings of the plugin to display Google captcha on the "
+"review form. <strong>Note: Captcha will only be displayed to customers "
+"giving review without logging into their account to prevent spam reviews on "
+"your website.</strong>"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:427
+msgid "Enable Captcha"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:441
+msgid ""
+"You can get your Google Captcha V2 site key from the this <a href=\"https://"
+"www.google.com/recaptcha/admin/create\" target=\"_blank\">link</a>"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:455
+msgid ""
+"You can get your Google Captcha V2 secret key from the this <a href="
+"\"https://www.google.com/recaptcha/admin/create\" target=\"_blank\">link</a>"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:467
+msgid "Color Scheme Options"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:468
+msgid ""
+"Configure color scheme settings of the plugin as per your needs. The color "
+"scheme selected will be applied on all shortcodes."
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:485
+msgid ""
+"Set Primary color as per your requirements. Primary color will be reflected "
+"on all shortcodes front views."
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:500
+msgid ""
+"Set Heading color as per your requirements. Heading color will be reflected "
+"on all shortcodes headings with few exceptions."
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:516
+msgid ""
+"Set Content color as per your requirements. Content color will be reflected "
+"on all shortcodes content."
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:525
+msgid "Popup Settings"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:526
+msgid ""
+"Configure Popup Settings of the plugin as per your needs. The order popup "
+"review will display on registered customer account page under Orders section."
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:541
+msgid ""
+"Show popup review for customers which have already placed order. The popup "
+"form will display on orders page inside customer account page."
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:553
+msgid "Set title for review popup form."
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:564
+msgid "Processing"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:568
+msgid "Completed"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:580
+msgid "How to use  plugin shortcodes?"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:581
+msgid ""
+"Plugin offers different shortcodes and each of them has a different purpose. "
+"Every shortcode has some default values set which you can change as per your "
+"needs. Here you will find information about plugin shortcodes."
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:583
+msgid "Reviews Listing Shortcode"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:584
+msgid ""
+"Reviews Listing shortcode consists of 2 layout styles. One is Masonry and "
+"the other one is Grid view. The shortcode consist of many other options as "
+"described below to meet different requirements and you can configure them "
+"accordingly."
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:586
+msgid "Reviews Slider Shortcode"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:587
+msgid ""
+"Reviews slider shortcode has modern and elegant front views developed on the "
+"current design trends and can be added on the homepage to showcase your "
+"website trusted customer reviews. The shortcode consist of many other "
+"options including color scheme and slider options as described below to meet "
+"different requirements."
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:589
+msgid "Reviews Count Shortcode"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:590
+msgid ""
+"Reviews count shortcode is another helpful shortcode to establish trust "
+"among your customers and promote your site as a trusted brand by showcasing "
+"verified customers reviews count. The shortcode has different layouts "
+"designed in such a way that can be used in the header, footer and on other "
+"sections. The Classic layout displays reviews badge with total reviews and "
+"also displays reviews average and is suitable to be added in the footer. The "
+"Text layout also displays the reviews badge with total reviews and reviews "
+"average and is suitable to be used in the header but can be used in the "
+"other sections."
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-admin-settings.php:593
+msgid "Enjoy our plugin and continue to support us!"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-posttype.php:88
+msgid "Add New"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-posttype.php:89
+msgid "Add New Review"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-posttype.php:90
+msgid "Edit Review"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-posttype.php:91
+msgid "New Review"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-posttype.php:92
+msgid "All SWR Reviews"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-posttype.php:93
+msgid "View Review"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-posttype.php:94
+msgid "Search Review"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-posttype.php:95
+msgid "No Review found"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-posttype.php:96
+msgid "No Review found in the Trash"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-posttype.php:107
+msgid "Display Woo Reviews description"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-posttype.php:132
+#: admin/partials/class-simple-woo-reviews-posttype.php:611
+msgid "Product Name"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-posttype.php:133
+msgid "Comment"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-posttype.php:134
+#: admin/partials/class-simple-woo-reviews-posttype.php:276
+#: admin/partials/class-simple-woo-reviews-posttype.php:612
+msgid "Rating"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-posttype.php:135
+#: admin/partials/class-simple-woo-reviews-posttype.php:614
+msgid "Status"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-posttype.php:136
+#: admin/partials/class-simple-woo-reviews-posttype.php:277
+msgid "Customer Name"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-posttype.php:137
+msgid "Date"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-posttype.php:200
+#: admin/partials/class-simple-woo-reviews-posttype.php:602
+msgid "Approved"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-posttype.php:206
+#: admin/partials/class-simple-woo-reviews-posttype.php:326
+msgid "Pending"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-posttype.php:213
+#: admin/partials/class-simple-woo-reviews-posttype.php:631
+msgid "Not Available"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-posttype.php:237
+#, php-format
+msgid "<a href=\"%s\">Edit</a>"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-posttype.php:238
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\">View</a>"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-posttype.php:239
+msgid "<a href=\""
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-posttype.php:240
+#, php-format
+msgid "<strong class=\"swr_pid\">ID: %d</strong>"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-posttype.php:326
+#, php-format
+msgid "<a href=\"%s\""
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-posttype.php:604
+msgid "Unapproved"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-posttype.php:610
+msgid "Item"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-posttype.php:613
+msgid "Comments"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-posttype.php:615
+msgid "Average Rating"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-posttype.php:616
+msgid "Username"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-posttype.php:617
+#: public/partials/simple-woo-reviews-wc-review-form-manager.php:136
+#: public/partials/simple-woo-reviews-wc-review-form-manager.php:143
+#: public/partials/simple-woo-reviews-wc-review-form-manager.php:146
+msgid "Email"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-posttype.php:793
+msgid "Attached Images"
+msgstr ""
+
+#: admin/partials/class-simple-woo-reviews-posttype.php:812
+msgid "Average Rating "
+msgstr ""
+
+#: public/partials/simple-woo-reviews-shortcodes-manager.php:170
+#, php-format
+msgid " Based on %d Reviews"
+msgstr ""
+
+#: public/partials/simple-woo-reviews-shortcodes-manager.php:273
+#: public/partials/simple-woo-reviews-shortcodes-manager.php:346
+#: public/partials/simple-woo-reviews-shortcodes-manager.php:549
+msgid " Verified Buyer"
+msgstr ""
+
+#: public/partials/simple-woo-reviews-shortcodes-manager.php:382
+#: public/partials/simple-woo-reviews-shortcodes-manager.php:598
+#: public/partials/simple-woo-reviews-shortcodes-manager.php:734
+msgid "No Reviews Found!"
+msgstr ""
+
+#: public/partials/simple-woo-reviews-shortcodes-manager.php:437
+msgid "&larr; Prev"
+msgstr ""
+
+#: public/partials/simple-woo-reviews-shortcodes-manager.php:438
+msgid "Next &rarr;"
+msgstr ""
+
+#: public/partials/simple-woo-reviews-shortcodes-manager.php:555
+msgid " Read More"
+msgstr ""
+
+#: public/partials/simple-woo-reviews-wc-account-manager.php:148
+msgid "Add Profile Picture"
+msgstr ""
+
+#: public/partials/simple-woo-reviews-wc-account-manager.php:152
+msgid "Please use 100X100 size image for your profile image."
+msgstr ""
+
+#: public/partials/simple-woo-reviews-wc-account-manager.php:178
+#: public/partials/simple-woo-reviews-wc-account-manager.php:341
+msgid "Please provide a profile image as it is a required field!"
+msgstr ""
+
+#: public/partials/simple-woo-reviews-wc-account-manager.php:183
+#: public/partials/simple-woo-reviews-wc-account-manager.php:346
+msgid "Allowed image format are JPG, PNG and JPEG!"
+msgstr ""
+
+#: public/partials/simple-woo-reviews-wc-account-manager.php:185
+#: public/partials/simple-woo-reviews-wc-account-manager.php:348
+msgid "Please use image less than 1MB!"
+msgstr ""
+
+#: public/partials/simple-woo-reviews-wc-account-manager.php:238
+msgid "Profile Image"
+msgstr ""
+
+#: public/partials/simple-woo-reviews-wc-account-manager.php:250
+msgid "Select"
+msgstr ""
+
+#: public/partials/simple-woo-reviews-wc-account-manager.php:251
+msgid "Remove"
+msgstr ""
+
+#: public/partials/simple-woo-reviews-wc-account-manager.php:252
+msgid ""
+"The profile image will be used by Simple Woo Reviews plugin on product "
+"reviews listing."
+msgstr ""
+
+#: public/partials/simple-woo-reviews-wc-account-manager.php:311
+msgid "Current Profile Image"
+msgstr ""
+
+#: public/partials/simple-woo-reviews-wc-account-manager.php:319
+msgid "Set Profile Photo"
+msgstr ""
+
+#: public/partials/simple-woo-reviews-wc-account-manager.php:425
+msgid "Add Review"
+msgstr ""
+
+#: public/partials/simple-woo-reviews-wc-account-manager.php:498
+msgid "Add your comment here"
+msgstr ""
+
+#: public/partials/simple-woo-reviews-wc-account-manager.php:500
+msgid "Save Review"
+msgstr ""
+
+#: public/partials/simple-woo-reviews-wc-account-manager.php:529
+msgid "Nonce failed, invalid request. Please try again!"
+msgstr ""
+
+#: public/partials/simple-woo-reviews-wc-account-manager.php:593
+msgid "Review is saved successfully"
+msgstr ""
+
+#: public/partials/simple-woo-reviews-wc-review-form-manager.php:134
+#: public/partials/simple-woo-reviews-wc-review-form-manager.php:139
+msgid "Keep me up to date on news and exclusive offers (optional)"
+msgstr ""
+
+#: public/partials/simple-woo-reviews-wc-review-form-manager.php:153
+#, php-format
+msgid ""
+"Upload up to %d images for your review (GIF, PNG, JPG, JPEG) <span class="
+"\"swr-size\">Recommended Size (480X480)</span>"
+msgstr ""
+
+#: public/partials/simple-woo-reviews-wc-review-form-manager.php:188
+msgid ""
+"<strong>Error:</strong> Please fill the <strong>email</strong> field for "
+"newsletter subscription."
+msgstr ""
+
+#: public/partials/simple-woo-reviews-wc-review-form-manager.php:190
+#: public/partials/simple-woo-reviews-wc-review-form-manager.php:211
+#: public/partials/simple-woo-reviews-wc-review-form-manager.php:218
+#, php-format
+msgid "<br>Go Back to <a href=\"%s\">%s</a>"
+msgstr ""
+
+#: public/partials/simple-woo-reviews-wc-review-form-manager.php:199
+msgid "Error: Please fill the captcha before submitting review!"
+msgstr ""
+
+#: public/partials/simple-woo-reviews-wc-review-form-manager.php:209
+#, php-format
+msgid ""
+"<strong>Error</strong>: You are trying to upload <strong>%d</strong> files "
+"than allowed <strong>%d</strong> files per single review!"
+msgstr ""
+
+#: public/partials/simple-woo-reviews-wc-review-form-manager.php:216
+#, php-format
+msgid ""
+"<strong>Error</strong>: Your uploaded <strong>%s</strong> file is exceeding "
+"file size limit of 1MB!"
+msgstr ""
+
+#: public/partials/simple-woo-reviews-wc-review-form-manager.php:224
+#, php-format
+msgid ""
+"<strong>Error</strong>: Invalid uploaded file <strong>%s</strong> extension. "
+"Allowed formats are (GIF, PNG, JPG, JPEG)"
+msgstr ""
